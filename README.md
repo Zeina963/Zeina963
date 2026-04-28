@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,40:003d5c,70:006d77,100:00b4d8&height=200&section=header&text=Zeinab%20Abu%20Romman&fontSize=46&fontColor=e0f7ff&animation=fadeIn&fontAlignY=40&desc=Water%20Resources%20Engineer%20%7C%20PhD%20%7C%20P.Eng.%20%7C%20GISP%20%7C%20Data%20Scientist&descAlignY=63&descSize=15&descColor=90e0ef" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=860&lines=Hydrologic+Modelling+%7CSurface+Groundwater+Systems+%7C+Basin-Scale+GIS;Water+Allocation+%7C+Climate+Resilience+%7C+Regulatory+Decision+Support;Data+Automation+%7C+Power+BI+Dashboards+%7C+Environmental+Analytics;WRMM+%7C+MODFLOW+%7C+HEC-HMS+%7C+ArcGIS+Pro+%7C+Python+%7C+R" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=860&lines=Hydrologic+Modelling;GIS%7C+Water+Allocation+%7C+Surface+Groundwater+Systems+%7C+Basin-Scale;Water+Allocation+%7C+Climate+Resilience+%7C+Regulatory+Decision+Support;Data+Automation+%7C+Power+BI+Dashboards+%7C+Environmental+Analytics;WRMM+%7C+MODFLOW+%7C+HEC-HMS+%7C+ArcGIS+Pro+%7C+Python+%7C+R" />
 </p>
 
 <p align="center">
@@ -32,6 +32,11 @@
 
 
 
+
+
+
+
+
 <br>
 
 <table>
@@ -51,6 +56,20 @@ My work spans Alberta's major river basins, arid-region groundwater systems, and
 - Basin-scale water balance and cumulative effects assessment
 - GIS, remote sensing, and spatial analytics
 - Data automation, ETL pipelines, and decision-support dashboards
+
+###  Tools & Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WRMM-Water%20Allocation-006D77?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODFLOW%20%2F%20GMS-Groundwater-005F73?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HEC--HMS-Hydrologic%20Modelling-0A9396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HEC--RAS-Hydraulic%20Analysis-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ArcGIS%20Pro-GISP-003d5c?style=for-the-badge&logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Automation%20%2F%20Analysis-003049?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-Statistical%20Modelling-006D77?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-005F73?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Pipelines-0A9396?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 <td width="36%" align="center" valign="middle">
 
@@ -84,6 +103,8 @@ PhD · P.Eng. · GISP
 > *Data tells the story.*  
 > *Models show the future.*  
 > *Decisions protect it.*
+>
+> 
 
 </td>
 </tr>
@@ -92,52 +113,8 @@ PhD · P.Eng. · GISP
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=860&lines=Hydrologic+Modelling+%7C+Groundwater+Systems+%7C+Basin-Scale+GIS;Water+Allocation+%7C+Climate+Resilience+%7C+Regulatory+Decision+Support;Data+Automation+%7C+Power+BI+Dashboards+%7C+Environmental+Analytics;WRMM+%7C+MODFLOW+%7C+HEC-HMS+%7C+ArcGIS+Pro+%7C+Python+%7C+R" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=860&lines=Hydrologic+Modelling;GIS%7C+Water+Allocation+%7C+Surface+Groundwater+Systems+%7C+Basin-Scale;Water+Allocation+%7C+Climate+Resilience+%7C+Regulatory+Decision+Support;Data+Automation+%7C+Power+BI+Dashboards+%7C+Environmental+Analytics;WRMM+%7C+MODFLOW+%7C+HEC-HMS+%7C+ArcGIS+Pro+%7C+Python+%7C+R" />
 </p>
-
-
-
-## Key Highlights
-
-<table align="center">
-<tr>
-<td align="center" width="22%">
-<img src="https://img.shields.io/badge/95%25-reduction%20in%20WRMM%20processing%20time-006D77?style=flat-square&labelColor=003d5c" /><br>
-<sub>Through automated Python workflows</sub>
-</td>
-<td align="center" width="22%">
-<img src="https://img.shields.io/badge/%3E90%25-projected%20recharge%20reduction-005F73?style=flat-square&labelColor=003d5c" /><br>
-<sub>Under RCP 8.5 climate scenarios</sub>
-</td>
-<td align="center" width="22%">
-<img src="https://img.shields.io/badge/3-major%20Alberta%20basins-0A9396?style=flat-square&labelColor=003d5c" /><br>
-<sub>Bow · Oldman · Red Deer</sub>
-</td>
-<td align="center" width="22%">
-<img src="https://img.shields.io/badge/10%2B-integrated%20datasets-00B4D8?style=flat-square&labelColor=003d5c" /><br>
-<sub>For modelling and decision support</sub>
-</td>
-</tr>
-</table>
-
-
-
-## Tools & Systems
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WRMM-Water%20Allocation-006D77?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODFLOW%20%2F%20GMS-Groundwater-005F73?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HEC--HMS-Hydrologic%20Modelling-0A9396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HEC--RAS-Hydraulic%20Analysis-00B4D8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ArcGIS%20Pro-GISP-003d5c?style=for-the-badge&logo=esri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation%20%2F%20Analysis-003049?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Statistical%20Modelling-006D77?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-005F73?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Pipelines-0A9396?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-
-
 
 
 ## Featured Projects
@@ -244,6 +221,12 @@ Geographic Information Systems Professional designation
 
 </details>
 
+<details>
+<summary><b>System Map Areas</b></summary>
+<br>
+
+|||
+
 ## System Map
 
 ```
@@ -289,7 +272,7 @@ Geographic Information Systems Professional designation
             │  (Power BI · Regulatory)│
             └─────────────────────────┘
 ```
-
+</details>
 
 <p align="center">
   <sub>
