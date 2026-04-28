@@ -1,4 +1,4 @@
-## Hi there 👋
+## Water Resources Engineer with experience in surface and groundwater modelling, water allocation, and climate-informed water management
 
 <!--
 **Zeina963/Zeina963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
