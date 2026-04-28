@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,40:003d5c,70:006d77,100:00b4d8&height=200&section=header&text=Zeinab%20Abu%20Romman&fontSize=46&fontColor=e0f7ff&animation=fadeIn&fontAlignY=40&desc=Water%20Resources%20Engineer%20%7C%20PhD%20%7C%20P.Eng.%20%7C%20GISP%20%7C%20Data%20Scientist&descAlignY=63&descSize=15&descColor=90e0ef" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=860&lines=Hydrologic+Modelling+%7C+Surface+&+Groundwater+Systems+%7C+Basin-Scale+GIS;Water+Allocation+%7C+Climate+Resilience+%7C+Regulatory+Decision+Support;Data+Automation+%7C+Power+BI+Dashboards+%7C+Environmental+Analytics;WRMM+%7C+MODFLOW+%7C+HEC-HMS+%7C+ArcGIS+Pro+%7C+Python+%7C+R" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=860&lines=Hydrologic+Modelling+%7CSurface+Groundwater+Systems+%7C+Basin-Scale+GIS;Water+Allocation+%7C+Climate+Resilience+%7C+Regulatory+Decision+Support;Data+Automation+%7C+Power+BI+Dashboards+%7C+Environmental+Analytics;WRMM+%7C+MODFLOW+%7C+HEC-HMS+%7C+ArcGIS+Pro+%7C+Python+%7C+R" />
 </p>
 
 <p align="center">
