@@ -2,6 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f2f,50:006d77,100:00b4d8&height=190&section=header&text=Zeinab%20Abu%20Romman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Water%20Resources%20Engineer%20%7C%20PhD%20%7C%20P.Eng.%20%7C%20GISP%20%7C%20Data%20Scientist&descAlignY=62&descSize=16" />
 </p>
 
+<p align="center">
+  <a href="https://www.zeinababuromman.com/">
+    <img src="https://img.shields.io/badge/Portfolio-006D77?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.zeinababuromman.com/projects">
+    <img src="https://img.shields.io/badge/Projects-003049?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.zeinababuromman.com/research">
+    <img src="https://img.shields.io/badge/Research-005F73?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://www.zeinababuromman.com/services">
+    <img src="https://img.shields.io/badge/Services-0A9396?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/zeinab-aburomman">
+    <img src="https://img.shields.io/badge/LinkedIn-003049?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 <table>
 <tr>
 <td width="68%" valign="top">
@@ -24,17 +42,7 @@ My focus is understanding how hydrologic and groundwater systems respond to clim
 </td>
 <td width="32%" align="center" valign="top">
 
-<img src="https://github.com/user-attachments/assets/0edcc066-3132-4431-8eeb-938d7bd78cfa" width="260" />
-
-<br><br>
-
-<a href="https://www.zeinababuromman.com/">
-  <img src="https://img.shields.io/badge/Portfolio-006D77?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/zeinab-aburomman">
-  <img src="https://img.shields.io/badge/LinkedIn-003049?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://github.com/user-attachments/assets/0edcc066-3132-4431-8eeb-938d7bd78cfa" width="260" alt="Dr Zeinab Abu Romman" />
 
 </td>
 </tr>
@@ -43,14 +51,23 @@ My focus is understanding how hydrologic and groundwater systems respond to clim
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WRMM-Water%20Allocation-006D77?style=flat-square" />
-  <img src="https://img.shields.io/badge/MODFLOW-Groundwater-0077B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/HEC--HMS-Hydrology-00A6A6?style=flat-square" />
-  <img src="https://img.shields.io/badge/HEC--RAS-Hydraulics-005F73?style=flat-square" />
-  <img src="https://img.shields.io/badge/ArcGIS%20Pro-GIS-2A9D8F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Automation-003049?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Analytics-264653?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-CA8A04?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&width=900&lines=Hydrologic+Modelling+%7C+Groundwater+Systems+%7C+GIS;Water+Allocation+%7C+Climate+Resilience+%7C+Decision+Support;Data+Automation+%7C+Dashboards+%7C+Environmental+Analytics" />
+</p>
+
+---
+
+## Explore My Work
+
+<p align="center">
+  <a href="https://www.zeinababuromman.com/projects">
+    <img src="https://img.shields.io/badge/SSRB%20Water%20Allocation-View%20Project-006D77?style=for-the-badge" />
+  </a>
+  <a href="https://www.zeinababuromman.com/projects">
+    <img src="https://img.shields.io/badge/Groundwater%20Recharge-View%20Project-0077B6?style=for-the-badge" />
+  </a>
+  <a href="https://www.zeinababuromman.com/projects">
+    <img src="https://img.shields.io/badge/Hydrologic%20Automation-View%20Project-003049?style=for-the-badge" />
+  </a>
 </p>
 
 ---
