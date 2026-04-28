@@ -1,5 +1,9 @@
 ## Water Resources Engineer with experience in surface and groundwater modelling, water allocation, and climate-informed water management
 
+# I’m a water resources engineer with experience in hydrologic and groundwater systems, focused on understanding climate change impacts on water availability and system behaviour.
+My work combines hydrologic modelling, groundwater modelling, and geospatial analysis to assess water balance components such as precipitation, evapotranspiration, recharge, and runoff under different scenarios. I use tools like HEC-HMS, MODFLOW, GIS, and remote sensing to support water resource evaluation and planning.
+I also bring strong data analysis skills, including working with large environmental datasets and applying data-driven and machine learning approaches to improve insight and decision-making.
+I’m particularly interested in water resource management, climate resilience, and applying modelling and data analysis to support practical, real-world water challenges.
 <!--
 **Zeina963/Zeina963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
