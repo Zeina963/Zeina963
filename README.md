@@ -6,16 +6,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.zeinababuromman.com/portfolio">
+  <a href="https://www.zeinababuromman.com">
     <img src="https://img.shields.io/badge/◈%20PORTFOLIO-001f36?style=flat-square&logoColor=white&color=006d77" />
+      &nbsp;
+  <a href="https://www.linkedin.com/in/zeinab-aburomman">
+    <img src="https://img.shields.io/badge/◈%20LINKEDIN-001f36?style=flat-square&logoColor=white&color=006d77" />
+  </a>
+    
   </a>
   &nbsp;
   <a href="https://www.zeinababuromman.com/">
     <img src="https://img.shields.io/badge/◈%20PROJECTS-001f36?style=flat-square&logoColor=white&color=006d77" />
-  </a>
-  &nbsp;
-  <a href="https://www.zeinababuromman.com/publications">
-    <img src="https://img.shields.io/badge/◈%20RESEARCH-001f36?style=flat-square&logoColor=white&color=006d77" />
+
   </a>
   &nbsp;
   <a href="https://www.zeinababuromman.com/publications">
@@ -24,17 +26,19 @@
   &nbsp;
   <a href="https://orcid.org/0000-0001-6078-6525">
     <img src="https://img.shields.io/badge/◈%20ORCID-001f36?style=flat-square&logoColor=white&color=006d77" />
+
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/zeinab-aburomman">
-    <img src="https://img.shields.io/badge/◈%20LINKEDIN-001f36?style=flat-square&logoColor=white&color=006d77" />
+  <a href="https://www.zeinababuromman.com/portfolio-collections/programming-skills#dataItem-mcbgchcf">
+    <img src="https://img.shields.io/badge/◈%20AUTOMATION-001f36?style=flat-square&logoColor=white&color=006d77" />
+  </a>
+  &nbsp;
+  <a href="https://www.zeinababuromman.com/portfolio-collections/dashboards-212cd6">
+    <img src="https://img.shields.io/badge/◈%20DASHBOARDS-001f36?style=flat-square&logoColor=white&color=006d77" />
   </a>
 </p>
 
 ---
-
-
-
 
 
 <br>
@@ -45,7 +49,7 @@
 
 ### Engineering water systems under climate uncertainty
 
-I work at the intersection of **hydrology**, **climate science**, **geospatial analysis**, and **data** — understanding how water systems respond to pressure, variability, and long-term change, then building tools that translate that understanding into decisions.
+I work at the intersection of **hydrology**, **climate science**, **geospatial analysis**, and **data**: understanding how water systems respond to pressure, variability, and long-term change, then building tools that translate that understanding into decisions.
 
 My work spans Alberta's major river basins, arid-region groundwater systems, and regulatory frameworks where water availability, allocation rights, and climate futures collide.
 
@@ -63,12 +67,12 @@ My work spans Alberta's major river basins, arid-region groundwater systems, and
 
 <br><br>
 
-**Dr. Zeinab Abu Romman**  
+**Zeinab Abu Romman**  
 PhD · P.Eng. · GISP  
 
 <br>
 
-<a href="https://www.zeinababuromman.com/portfolio">
+<a href="https://www.zeinababuromman.com">
   <img src="https://img.shields.io/badge/Portfolio-006d77?style=flat-square&logo=google-chrome&logoColor=white&labelColor=001f36" />
 </a>
 
@@ -201,7 +205,9 @@ PhD · P.Eng. · GISP
 
 WRMM-based supply-demand assessment, diversion and deficit analysis, and drought response tools for the South Saskatchewan River Basin. Regulatory decision support under Alberta's Water Act.
 
-<a href="https://www.zeinababuromman.com/projects"><img src="https://img.shields.io/badge/View%20Project-006D77?style=flat-square" /></a>
+<a href="https://www.zeinababuromman.com/portfolio-collections/my-portfolio/alberta-hydrology-explorer-1-1">
+  <img src="https://img.shields.io/badge/View%20Project-006d77?style=flat-square&labelColor=001f36" />
+</a>
 
 </td>
 <td width="33%" valign="top">
@@ -210,7 +216,9 @@ WRMM-based supply-demand assessment, diversion and deficit analysis, and drought
 
 3D MODFLOW model assessing climate change impacts on recharge in an arid to semi-arid catchment. Transient calibration across RCP 4.5 and 8.5 future scenarios. Results revealed recharge reductions exceeding 90%.
 
-<a href="https://www.zeinababuromman.com/projects"><img src="https://img.shields.io/badge/View%20Project-005F73?style=flat-square" /></a>
+<a href="https://www.zeinababuromman.com/portfolio-collections/my-portfolio/project-title-6">
+  <img src="https://img.shields.io/badge/View%20Project-005f73?style=flat-square&labelColor=001f36" />
+</a>
 
 </td>
 <td width="33%" valign="top">
@@ -219,12 +227,13 @@ WRMM-based supply-demand assessment, diversion and deficit analysis, and drought
 
 Python, R, and Power BI workflows for automated data processing, QA/QC, visualization, and reporting — reducing WRMM processing time by 95% and enabling scalable regulatory analysis.
 
-<a href="https://www.zeinababuromman.com/projects"><img src="https://img.shields.io/badge/View%20Project-003049?style=flat-square" /></a>
+<a href="https://www.zeinababuromman.com/portfolio-collections/programming-skills#dataItem-mcbgchcf">
+  <img src="https://img.shields.io/badge/View%20Project-003049?style=flat-square&labelColor=001f36" />
+</a>
 
 </td>
 </tr>
 </table>
-
 ---
 
 <details>
@@ -247,16 +256,48 @@ Python, R, and Power BI workflows for automated data processing, QA/QC, visualiz
 <summary><b>Professional Background</b></summary>
 <br>
 
-**PhD** in groundwater recharge under climate change — fully integrated 3D groundwater flow model using MODFLOW within GMS, with distributed surface water balance modelling, remote sensing data, and hydrogeological characterization.
+**PhD** in groundwater recharge under climate change, fully integrated 3D groundwater flow model using MODFLOW within GMS, with distributed surface water balance modelling, remote sensing data, and hydrogeological characterization.
 
-**P.Eng.** — Professional Engineer registered in Alberta.
+**P.Eng.**: Professional Engineer registered in Alberta.
 
-**GISP** — Geographic Information Systems Professional designation.
+**GISP**: Geographic Information Systems Professional designation.
 
 Primary domain of practice: Alberta's South Saskatchewan River Basin, arid and semi-arid groundwater systems, and regulatory water resource assessment.
 
 </details>
+<details>
+<summary><b>Professional Background</b></summary>
+<br>
 
+**PhD** in Water Resources Engineering - Groundwater Recharge under Climate Change  
+FConducted fully integrated surface water and groundwater modelling to assess climate-driven recharge dynamics in arid and semi-arid systems. Led surface water budget analysis using WMS with integrated HEC-HMS and HEC-RAS, including watershed delineation, rainfall-runoff simulation, and hydraulic routing to quantify surface water contributions to groundwater recharge.
+
+Developed and calibrated a 3D groundwater model using GMS 10.4 and MODFLOW-2000, achieving RMSE of 2.5 m. Model validated under transient conditions and applied to mid-century climate scenarios (RCP 4.5 and RCP 8.5), indicating recharge reductions exceeding 90% and significant long-term drought and groundwater depletion risk.  
+
+<a href="https://orcid.org/0000-0001-6078-6525">
+  <img src="https://img.shields.io/badge/ORCID%20Profile-006d77?style=flat-square&labelColor=001f36" />
+</a>
+
+<br>
+
+**P.Eng.**  
+Professional Engineer registered in Alberta  
+
+<a href="https://www.apega.ca/">
+  <img src="https://img.shields.io/badge/APEGA-Professional%20Engineer-006d77?style=flat-square&labelColor=001f36" />
+</a>
+
+<br>
+
+**GISP**  
+Geographic Information Systems Professional designation  
+
+<a href="https://www.gisci.org/">
+  <img src="https://img.shields.io/badge/GISCI-GISP-006d77?style=flat-square&labelColor=001f36" />
+</a>
+
+
+</details>
 ---
 
 <p align="center">
