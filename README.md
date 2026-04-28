@@ -7,34 +7,25 @@
 
 <p align="center">
   <a href="https://www.zeinababuromman.com">
-    <img src="https://img.shields.io/badge/◈%20PORTFOLIO-001f36?style=flat-square&logoColor=white&color=006d77" />
-      &nbsp;
+    <img src="https://img.shields.io/badge/◈%20PORTFOLIO-001f36?style=flat-square&color=006d77" />
+  </a>
   <a href="https://www.linkedin.com/in/zeinab-aburomman">
-    <img src="https://img.shields.io/badge/◈%20LINKEDIN-001f36?style=flat-square&logoColor=white&color=006d77" />
+    <img src="https://img.shields.io/badge/◈%20LINKEDIN-001f36?style=flat-square&color=006d77" />
   </a>
-    
-  </a>
-  &nbsp;
   <a href="https://www.zeinababuromman.com/">
-    <img src="https://img.shields.io/badge/◈%20PROJECTS-001f36?style=flat-square&logoColor=white&color=006d77" />
-
+    <img src="https://img.shields.io/badge/◈%20PROJECTS-001f36?style=flat-square&color=006d77" />
   </a>
-  &nbsp;
   <a href="https://www.zeinababuromman.com/publications">
-    <img src="https://img.shields.io/badge/◈%20PUBLICATIONS-001f36?style=flat-square&logoColor=white&color=006d77" />
+    <img src="https://img.shields.io/badge/◈%20PUBLICATIONS-001f36?style=flat-square&color=006d77" />
   </a>
-  &nbsp;
   <a href="https://orcid.org/0000-0001-6078-6525">
-    <img src="https://img.shields.io/badge/◈%20ORCID-001f36?style=flat-square&logoColor=white&color=006d77" />
-
+    <img src="https://img.shields.io/badge/◈%20ORCID-001f36?style=flat-square&color=006d77" />
   </a>
-  &nbsp;
   <a href="https://www.zeinababuromman.com/portfolio-collections/programming-skills#dataItem-mcbgchcf">
-    <img src="https://img.shields.io/badge/◈%20AUTOMATION-001f36?style=flat-square&logoColor=white&color=006d77" />
+    <img src="https://img.shields.io/badge/◈%20AUTOMATION-001f36?style=flat-square&color=006d77" />
   </a>
-  &nbsp;
   <a href="https://www.zeinababuromman.com/portfolio-collections/dashboards-212cd6">
-    <img src="https://img.shields.io/badge/◈%20DASHBOARDS-001f36?style=flat-square&logoColor=white&color=006d77" />
+    <img src="https://img.shields.io/badge/◈%20DASHBOARDS-001f36?style=flat-square&color=006d77" />
   </a>
 </p>
 
