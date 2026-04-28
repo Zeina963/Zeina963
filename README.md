@@ -1,24 +1,41 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,40:003d5c,70:006d77,100:00b4d8&height=200&section=header&text=Zeinab%20Abu%20Romman&fontSize=46&fontColor=e0f7ff&animation=fadeIn&fontAlignY=40&desc=Water%20Resources%20Engineer%20%7C%20PhD%20%7C%20P.Eng.%20%7C%20GISP%20%7C%20Data%20Scientist&descAlignY=63&descSize=15&descColor=90e0ef" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=860&lines=Hydrologic+Modelling+%7C+Groundwater+Systems+%7C+Basin-Scale+GIS;Water+Allocation+%7C+Climate+Resilience+%7C+Regulatory+Decision+Support;Data+Automation+%7C+Power+BI+Dashboards+%7C+Environmental+Analytics;WRMM+%7C+MODFLOW+%7C+HEC-HMS+%7C+ArcGIS+Pro+%7C+Python+%7C+R" />
+</p>
 
 <p align="center">
+  <a href="https://www.zeinababuromman.com/portfolio">
+    <img src="https://img.shields.io/badge/◈%20PORTFOLIO-001f36?style=flat-square&logoColor=white&color=006d77" />
+  </a>
+  &nbsp;
   <a href="https://www.zeinababuromman.com/">
-    <img src="https://img.shields.io/badge/Portfolio-006D77?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.zeinababuromman.com/projects">
-    <img src="https://img.shields.io/badge/Projects-003d5c?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.zeinababuromman.com/research">
-    <img src="https://img.shields.io/badge/Research-005F73?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.zeinababuromman.com/services">
-    <img src="https://img.shields.io/badge/Services-0A9396?style=for-the-badge&logo=databricks&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/◈%20PROJECTS-001f36?style=flat-square&logoColor=white&color=006d77" />
+  </a>
+  &nbsp;
+  <a href="https://www.zeinababuromman.com/publications">
+    <img src="https://img.shields.io/badge/◈%20RESEARCH-001f36?style=flat-square&logoColor=white&color=006d77" />
+  </a>
+  &nbsp;
+  <a href="https://www.zeinababuromman.com/publications">
+    <img src="https://img.shields.io/badge/◈%20PUBLICATIONS-001f36?style=flat-square&logoColor=white&color=006d77" />
+  </a>
+  &nbsp;
+  <a href="https://orcid.org/0000-0001-6078-6525">
+    <img src="https://img.shields.io/badge/◈%20ORCID-001f36?style=flat-square&logoColor=white&color=006d77" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/zeinab-aburomman">
-    <img src="https://img.shields.io/badge/LinkedIn-003049?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/◈%20LINKEDIN-001f36?style=flat-square&logoColor=white&color=006d77" />
   </a>
 </p>
+
+---
+
+
+
+
 
 <br>
 
@@ -40,10 +57,39 @@ My work spans Alberta's major river basins, arid-region groundwater systems, and
 - GIS, remote sensing, and spatial analytics
 - Data automation, ETL pipelines, and decision-support dashboards
 
-</td>
-<td width="28%" align="center" valign="middle">
-<img src="https://github.com/user-attachments/assets/0edcc066-3132-4431-8eeb-938d7bd78cfa" width="130" style="border-radius: 50%; border: 3px solid #006d77;" alt="Dr. Zeinab Abu Romman" /><br>
-<sub><sup>Dr. Zeinab Abu Romman</sup></sub>
+<td width="36%" align="center" valign="middle">
+
+<img src="https://github.com/user-attachments/assets/0edcc066-3132-4431-8eeb-938d7bd78cfa" width="180" alt="Dr. Zeinab Abu Romman" />
+
+<br><br>
+
+**Dr. Zeinab Abu Romman**  
+PhD · P.Eng. · GISP  
+
+<br>
+
+<a href="https://www.zeinababuromman.com/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-006d77?style=flat-square&logo=google-chrome&logoColor=white&labelColor=001f36" />
+</a>
+
+<br>
+
+<a href="https://orcid.org/0000-0001-6078-6525">
+  <img src="https://img.shields.io/badge/ORCID-006d77?style=flat-square&logo=orcid&logoColor=white&labelColor=001f36" />
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/zeinab-aburomman">
+  <img src="https://img.shields.io/badge/LinkedIn-006d77?style=flat-square&logo=linkedin&logoColor=white&labelColor=001f36" />
+</a>
+
+<br><br>
+
+> *Data tells the story.*  
+> *Models show the future.*  
+> *Decisions protect it.*
+
 </td>
 </tr>
 </table>
