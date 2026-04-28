@@ -38,7 +38,7 @@
   </a>
 </p>
 
----
+
 
 
 <br>
@@ -98,13 +98,13 @@ PhD · P.Eng. · GISP
 </tr>
 </table>
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=860&lines=Hydrologic+Modelling+%7C+Groundwater+Systems+%7C+Basin-Scale+GIS;Water+Allocation+%7C+Climate+Resilience+%7C+Regulatory+Decision+Support;Data+Automation+%7C+Power+BI+Dashboards+%7C+Environmental+Analytics;WRMM+%7C+MODFLOW+%7C+HEC-HMS+%7C+ArcGIS+Pro+%7C+Python+%7C+R" />
 </p>
 
----
+
 
 ## Key Highlights
 
@@ -129,7 +129,7 @@ PhD · P.Eng. · GISP
 </tr>
 </table>
 
----
+
 
 ## Tools & Systems
 
@@ -145,7 +145,7 @@ PhD · P.Eng. · GISP
   <img src="https://img.shields.io/badge/SQL-Data%20Pipelines-0A9396?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
+
 
 ## System Map
 
@@ -193,7 +193,7 @@ PhD · P.Eng. · GISP
             └─────────────────────────┘
 ```
 
----
+
 
 ## Featured Projects
 
@@ -234,14 +234,14 @@ Python, R, and Power BI workflows for automated data processing, QA/QC, visualiz
 </td>
 </tr>
 </table>
----
+
 
 <details>
 <summary><b>Core Expertise Areas</b></summary>
 <br>
 
 | Domain | Details |
-|---|---|
+|||
 | **Water Allocation** | WRMM-based modelling, diversion analysis, deficit assessment, reservoir operations, Water Act compliance |
 | **Hydrologic Modelling** | HEC-HMS, WMS, watershed delineation, runoff simulation, water balance, basin-scale analysis |
 | **Groundwater Systems** | MODFLOW / GMS, 3D transient modelling, recharge estimation, climate scenario simulation |
@@ -298,7 +298,7 @@ Geographic Information Systems Professional designation
 
 
 </details>
----
+
 
 <p align="center">
   <sub>
