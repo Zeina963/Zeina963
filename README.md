@@ -248,8 +248,8 @@ Geographic Information Systems Professional designation
 
 ```
                          ╔══════════════════════════╗
-                         ║  PRECIPITATION / CLIMATE  ║
-                         ╚══════════════╦═════════════╝
+                         ║  PRECIPITATION / CLIMATE ║
+                         ╚══════════════╦═══════════╝
                                         │
               ┌─────────────────────────┼─────────────────────────┐
               ▼                         ▼                         ▼
